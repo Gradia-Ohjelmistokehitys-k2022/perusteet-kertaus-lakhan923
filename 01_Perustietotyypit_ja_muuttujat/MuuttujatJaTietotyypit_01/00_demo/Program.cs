@@ -21,3 +21,6 @@ static int Metodi(int arvo, string arvo2)
 
     return 0;
 }
+
+
+        
